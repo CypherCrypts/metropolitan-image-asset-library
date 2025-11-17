@@ -1,0 +1,12 @@
+[
+  {
+    "id": "metro-logo",
+    "name": "Metropolitan School Logo",
+    "tags": ["logo", "school", "vector"],
+    "preview": "assets/logos/metro-logo.png",
+    "formats": {
+      "png": "assets/logos/metro-logo.png",
+      "svg": "assets/logos/metro-logo.svg"
+    }
+  }
+]
