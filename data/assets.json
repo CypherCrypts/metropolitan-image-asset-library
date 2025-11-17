@@ -1,12 +1,11 @@
 [
   {
-    "id": "metro-logo",
-    "name": "Metropolitan School Logo",
-    "tags": ["logo", "school", "vector"],
-    "preview": "assets/logos/Metropolitan-Council-Logo.png",
+    "id": "Metropolitan-Council-Logo",
+    "name": "Metropolitan Council Logo",
+    "tags": ["logo", "school", "council"],
+    "preview": "assets/Metropolitan-Council-Logo.png",
     "formats": {
-      "png": "assets/logos/Metropolitan-Council-Logo.png",
-      "svg": "assets/logos/Metropolitan-Council-Logo.png"
+      "png": "assets/Metropolitan-Council-Logo.png"
     }
   }
 ]
