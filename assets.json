@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Metropolitan Council Logo",
+    "tags": ["logo", "council", "school"],
+    "path": "assets/logos/metropolitan-council-logo.png",
+    "type": "png"
+  }
+]
